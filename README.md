@@ -15,43 +15,43 @@
 
 ---
 
-## **📋 Descripción del Proyecto**
+## **Descripción del Proyecto**
 
 Este proyecto realiza un análisis exploratorio integral de datos territoriales del estado de Nueva York, enfocándose en cuatro dimensiones críticas del bienestar social y seguridad pública mediante procesamiento distribuido con Apache Spark.
 
-### **🎯 Objetivo Principal**
+### **Objetivo Principal**
 Identificar patrones, correlaciones y elementos relevantes que puedan guiar la formulación de un plan de acción basado en evidencia para mejorar indicadores sociales y de seguridad pública.
 
-## **🚀 Características Principales**
+## **Características Principales**
 
-- **🔍 Análisis multidimensional** de problemáticas sociales clave
-- **⚡ Procesamiento distribuido** con Apache Spark en clúster HPC
-- **📊 Limpieza y transformación** de grandes volúmenes de datos
-- **📈 Análisis descriptivo avanzado** por dimensiones territoriales
-- **🔧 Metodología CRISP-DM** aplicada a datos reales
+- **Análisis multidimensional** de problemáticas sociales clave
+- **Procesamiento distribuido** con Apache Spark en clúster HPC
+- **Limpieza y transformación** de grandes volúmenes de datos
+- **Análisis descriptivo avanzado** por dimensiones territoriales
+- **Metodología CRISP-DM** aplicada a datos reales
 
-## **📊 Dimensiones Analizadas**
+## **Dimensiones Analizadas**
 
-### **🚓 Seguridad Pública - NYPD Arrests Data**
+### **Seguridad Pública - NYPD Arrests Data**
 - **Registros:** 140,086 (post-limpieza)
 - **Período:** 2025
 - **Variables clave:** Tipo de delito, categoría legal, distrito, precinto, demografía
 
-### **📚 Educación - SAT NYC Results**
+### **Educación - SAT NYC Results**
 - **Registros:** 421 (post-limpieza)
 - **Período:** 2012
 - **Variables clave:** Puntajes promedio en lectura, matemáticas, escritura, número de estudiantes
 
-### **🚗 Movilidad - Motor Vehicle Collisions**
+### **Movilidad - Motor Vehicle Collisions**
 - **Registros:** 4,441,234
 - **Período:** 2012-2025
 - **Variables clave:** Tipo de vehículo, factores contribuyentes, año del vehículo, punto de impacto
 
-### **🏚️ Condiciones Socioeconómicas - NYC Poverty Measure**
+### **Condiciones Socioeconómicas - NYC Poverty Measure**
 - **Registros:** 68,273
 - **Variables clave:** Ingresos ajustados, umbrales de pobreza, gastos estimados, condiciones socioeconómicas
 
-## **🛠️ Tecnologías Utilizadas**
+## **Tecnologías Utilizadas**
 
 | Tecnología | Versión | Uso |
 |------------|---------|-----|
